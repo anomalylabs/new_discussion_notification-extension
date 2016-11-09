@@ -1,0 +1,9 @@
+{
+    "name": "anomaly/new_discussion_notification-extension",
+    "type": "streams-addon",
+    "autoload": {
+        "psr-4": {
+            "Anomaly\\NewDiscussionNotificationExtension\\": "src/"
+        }
+    }
+}
